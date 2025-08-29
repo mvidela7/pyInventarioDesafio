@@ -14,7 +14,7 @@ namespace pyInventario
         {
             //cadena de conexion
             //sql - string cadenaConexion = "Server=localhost;Database=Ventas2;Trusted_Connection=True;";
-            string cadenaConexion = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=..\\..\\BaseDatos\\productosBd.accdb";
+            string cadenaConexion = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=..\\..\\BaseDatos\\bdRPG.accdb";
             //conector
             //SqlConnection coneccionBaseDatos;
             OleDbConnection coneccionBaseDatos;
